@@ -70,4 +70,5 @@ We have used
 
 8. Finally, all the color coding will be done and our dashboard is ready.
 
+<img src="/repository/assets/dashboard.jpg">
 
