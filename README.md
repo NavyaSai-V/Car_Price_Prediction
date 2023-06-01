@@ -70,5 +70,5 @@ We have used
 
 8. Finally, all the color coding will be done and our dashboard is ready.
 
-<img src="/repository/assets/dashboard.jpg">
+![dashboard](https://github.com/NavyaSai-V/Car_Price_Prediction/assets/130676924/615425f2-84aa-4916-b153-c920b4978ec9)
 
